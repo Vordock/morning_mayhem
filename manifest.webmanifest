@@ -1,6 +1,6 @@
 {
-    "name": "jogo_gato",
-    "short_name": "jogo_gato",
+    "name": "Morning Mayhem",
+    "short_name": "Morning Mayhem",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

@@ -1,4 +1,4 @@
-const cacheName = "HyBrazil-jogo_gato-1.0";
+const cacheName = "Ewerton Games-Morning Mayhem-v0.21";
 const contentToCache = [
     "Build/morning_mayhem.loader.js",
     "Build/morning_mayhem.framework.js.unityweb",
