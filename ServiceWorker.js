@@ -1,9 +1,9 @@
 const cacheName = "HyBrazil-jogo_gato-1.0";
 const contentToCache = [
-    "Build/game_build.loader.js",
-    "Build/game_build.framework.js.unityweb",
-    "Build/game_build.data.unityweb",
-    "Build/game_build.wasm.unityweb",
+    "Build/morning_mayhem.loader.js",
+    "Build/morning_mayhem.framework.js.unityweb",
+    "Build/morning_mayhem.data.unityweb",
+    "Build/morning_mayhem.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
